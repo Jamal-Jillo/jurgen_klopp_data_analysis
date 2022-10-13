@@ -44,6 +44,7 @@ The data is in the data folder. The data is in the following format:
 According to the data, Liverpool have played a total of 391 matches under Jurgen Klopp.
 176 of these matches were won by Liverpool, 82 were drawn and 133 were lost. 132 of these matches were won by Liverpool at home, and 22 matches were lost at home. 44 of these matches were won by Liverpool away from home, while a staggering 111 matches were lost. This depicts a very poor record for Liverpool away from home. 
 Looking Further into the data we can Visualize how many matches Jurgen Klopp managed in each competition:
+
 ![Jurgen Klopp's Record in each competition]
 
 
