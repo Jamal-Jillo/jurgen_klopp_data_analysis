@@ -41,7 +41,31 @@ The data is in the data folder. The data is in the following format:
 1. I will be cleaning the data as I go along. I will be adding more data as I go along.
 
 ## Data Analysis
-1. I will be using the data to answer the questions I have set out to answer.
+According to the data, Liverpool have played a total of 391 matches under Jurgen Klopp.
+176 of these matches were won by Liverpool, 82 were drawn and 133 were lost. 132 of these matches were won by Liverpool at home, and 22 matches were lost at home. 44 of these matches were won by Liverpool away from home, while a staggering 111 matches were lost. This depicts a very poor record for Liverpool away from home. 
+Looking Further into the data we can Visualize how many matches Jurgen Klopp managed in each competition:
+![Jurgen Klopp's Record in each competition]
+        (Bundesliga                          340
+        Premier League                      266
+        2. Bundesliga                       148
+        UEFA Champions League                96
+        DFB-Pokal                            44
+        FA Cup                               21
+        Europa League                        19
+        EFL Cup                              18
+        League Cup                            5
+        DFL-Supercup                          4
+        UEFA-Cup (- 2009)                     4
+        Community Shield                      3
+        UEFA-Cup Qualifikation                3
+        UEFA Champions League Qualifying      2
+        FIFA Club World Cup                   2
+        Europa League Qualifying              2
+        UEFA Super Cup                        1)
+
+Of the 96 matches that Jurgen Klopp has managed in the UEFA Champions League,
+60 of those matches were played by Liverpool. 37 of these matches were won, 14 were lost and 9 were drawn. 20 matches were won by Liverpool at home,
+and only 4 matches were lost at home. Away from home, Liverpool won 17 matches and lost 10 matches.
 
 ## Data Visualization
 -- I will be adding this later
