@@ -45,7 +45,7 @@ According to the data, Liverpool have played a total of 391 matches under Jurgen
 176 of these matches were won by Liverpool, 82 were drawn and 133 were lost. 132 of these matches were won by Liverpool at home, and 22 matches were lost at home. 44 of these matches were won by Liverpool away from home, while a staggering 111 matches were lost. This depicts a very poor record for Liverpool away from home. 
 Looking Further into the data we can Visualize how many matches Jurgen Klopp managed in each competition:
 ![Jurgen Klopp's Record in each competition]
-        (Bundesliga                          340
+        Bundesliga                          340
         Premier League                      266
         2. Bundesliga                       148
         UEFA Champions League                96
@@ -61,7 +61,7 @@ Looking Further into the data we can Visualize how many matches Jurgen Klopp man
         UEFA Champions League Qualifying      2
         FIFA Club World Cup                   2
         Europa League Qualifying              2
-        UEFA Super Cup                        1)
+        UEFA Super Cup                        1
 
 Of the 96 matches that Jurgen Klopp has managed in the UEFA Champions League,
 60 of those matches were played by Liverpool. 37 of these matches were won, 14 were lost and 9 were drawn. 20 matches were won by Liverpool at home,
